@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dandnirv
 - 👀 I’m interested in Programming and Coding
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Learning
 - 📫 How to reach me? dandinirpana7@gmail.com
 <!---

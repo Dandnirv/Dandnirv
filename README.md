@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Dandnirv
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Learning
 - 📫 How to reach me? dandinirpana7@gmail.com
 <!---
 Dandnirv/Dandnirv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
